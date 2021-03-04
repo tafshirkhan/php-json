@@ -1,0 +1,1 @@
+{"fname":"firstname","$lname":"lastname","email":"tafshirahmed100@gmail.com","username":"Tafshir","password":"123456"}
